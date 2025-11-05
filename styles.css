@@ -1,0 +1,25 @@
+a{
+    color: pink;
+}
+
+a:link {
+    color: pink;
+}
+
+a:visited{
+    color: red;
+}
+
+a:focus{
+    color: green;
+    outline: 4px solid red;
+}
+
+a:hover{
+    color: purple;
+}
+
+a:active{
+    color: blue;
+}
+
